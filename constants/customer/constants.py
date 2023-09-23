@@ -1,0 +1,5 @@
+class CustomerConstant:
+    UNIQUE_ID_PREFIX = "BOFS"
+    TYPE_INDIVIDUAL = 1
+    TYPE_CORPORATE = 2
+    TYPE_PARTNERSHIP = 3
